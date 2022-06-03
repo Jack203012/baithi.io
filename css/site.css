@@ -4,6 +4,10 @@
     padding: 0;
     font-family: Arial, Helvetica, sans-serif;
 }
+.header{
+    background-size: 1190px 300px;
+    box-shadow: inset 1000px 1000px rgba(0, 0, 0, 0.5);
+}
 .header-top{
     width: 1190px;
     height: 40px;
